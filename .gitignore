@@ -2,4 +2,5 @@
 .sass-cache
 _site
 Gemfile.lock
-./_config.yml # Ignore customized config file. template_config.yml is tracked and kept up-to-date with repo
+_config.yml # Ignore customized config file. template_config.yml is tracked and kept up-to-date with repo
+*config.yml
